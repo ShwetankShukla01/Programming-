@@ -7,6 +7,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,8 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
