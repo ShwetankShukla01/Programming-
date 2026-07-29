@@ -10,6 +10,7 @@ solving programing question related to interview and DSA
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ solving programing question related to interview and DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShwetankShukla01/Programming-/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -72,4 +74,13 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
