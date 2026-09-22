@@ -42,6 +42,7 @@ solving programing question related to interview and DSA
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
@@ -177,6 +178,7 @@ solving programing question related to interview and DSA
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ShwetankShukla01/Programming-/tree/master/1927-sum-game) |
@@ -266,6 +268,7 @@ solving programing question related to interview and DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
