@@ -50,6 +50,7 @@ solving programing question related to interview and DSA
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
@@ -96,6 +97,7 @@ solving programing question related to interview and DSA
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -152,6 +154,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +189,7 @@ solving programing question related to interview and DSA
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ShwetankShukla01/Programming-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
@@ -228,6 +232,7 @@ solving programing question related to interview and DSA
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShwetankShukla01/Programming-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
