@@ -8,6 +8,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/ShwetankShukla01/Programming-/tree/master/1927-sum-game) |
@@ -308,4 +309,12 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShwetankShukla01/Programming-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
