@@ -6,6 +6,7 @@ solving programing question related to interview and DSA
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -195,6 +196,7 @@ solving programing question related to interview and DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
@@ -265,6 +267,7 @@ solving programing question related to interview and DSA
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -321,6 +324,7 @@ solving programing question related to interview and DSA
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
