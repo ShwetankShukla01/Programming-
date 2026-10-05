@@ -62,6 +62,7 @@ solving programing question related to interview and DSA
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShwetankShukla01/Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -88,11 +89,13 @@ solving programing question related to interview and DSA
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
