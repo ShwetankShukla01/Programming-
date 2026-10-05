@@ -6,6 +6,7 @@ solving programing question related to interview and DSA
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
@@ -124,6 +125,7 @@ solving programing question related to interview and DSA
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -171,6 +173,7 @@ solving programing question related to interview and DSA
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
