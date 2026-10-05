@@ -123,6 +123,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
@@ -340,12 +341,18 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
