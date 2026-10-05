@@ -65,6 +65,7 @@ solving programing question related to interview and DSA
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShwetankShukla01/Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShwetankShukla01/Programming-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -213,6 +214,7 @@ solving programing question related to interview and DSA
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShwetankShukla01/Programming-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShwetankShukla01/Programming-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
