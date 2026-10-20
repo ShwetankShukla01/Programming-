@@ -45,6 +45,7 @@ solving programing question related to interview and DSA
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShwetankShukla01/Programming-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ solving programing question related to interview and DSA
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -110,6 +112,7 @@ solving programing question related to interview and DSA
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +154,7 @@ solving programing question related to interview and DSA
 | [3870-count-commas-in-range](https://github.com/ShwetankShukla01/Programming-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
