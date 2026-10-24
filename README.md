@@ -36,6 +36,7 @@ solving programing question related to interview and DSA
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ShwetankShukla01/Programming-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
@@ -298,6 +300,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0015-3sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
