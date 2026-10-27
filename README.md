@@ -44,6 +44,7 @@ solving programing question related to interview and DSA
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2126-destroying-asteroids](https://github.com/ShwetankShukla01/Programming-/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShwetankShukla01/Programming-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -78,6 +79,7 @@ solving programing question related to interview and DSA
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/ShwetankShukla01/Programming-/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShwetankShukla01/Programming-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShwetankShukla01/Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShwetankShukla01/Programming-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -220,6 +222,7 @@ solving programing question related to interview and DSA
 | [1927-sum-game](https://github.com/ShwetankShukla01/Programming-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/ShwetankShukla01/Programming-/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShwetankShukla01/Programming-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
