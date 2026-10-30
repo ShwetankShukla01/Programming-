@@ -29,10 +29,12 @@ solving programing question related to interview and DSA
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ solving programing question related to interview and DSA
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShwetankShukla01/Programming-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
@@ -145,6 +148,7 @@ solving programing question related to interview and DSA
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShwetankShukla01/Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +188,7 @@ solving programing question related to interview and DSA
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShwetankShukla01/Programming-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -298,6 +303,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShwetankShukla01/Programming-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ShwetankShukla01/Programming-/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -361,6 +367,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShwetankShukla01/Programming-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,4 +407,8 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShwetankShukla01/Programming-/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
