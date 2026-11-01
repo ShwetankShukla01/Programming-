@@ -66,6 +66,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ShwetankShukla01/Programming-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
@@ -160,6 +161,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/ShwetankShukla01/Programming-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
