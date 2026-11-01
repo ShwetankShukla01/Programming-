@@ -8,6 +8,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShwetankShukla01/Programming-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
@@ -398,12 +399,14 @@ solving programing question related to interview and DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
