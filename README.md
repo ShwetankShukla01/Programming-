@@ -365,6 +365,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ShwetankShukla01/Programming-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -400,6 +401,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShwetankShukla01/Programming-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -417,6 +419,7 @@ solving programing question related to interview and DSA
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
