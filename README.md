@@ -29,6 +29,7 @@ solving programing question related to interview and DSA
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
@@ -141,6 +142,7 @@ solving programing question related to interview and DSA
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
