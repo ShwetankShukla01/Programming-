@@ -30,6 +30,7 @@ solving programing question related to interview and DSA
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@ solving programing question related to interview and DSA
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShwetankShukla01/Programming-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -137,6 +139,7 @@ solving programing question related to interview and DSA
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
