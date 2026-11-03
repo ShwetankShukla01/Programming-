@@ -71,6 +71,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ShwetankShukla01/Programming-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -158,6 +159,7 @@ solving programing question related to interview and DSA
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
