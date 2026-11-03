@@ -118,6 +118,7 @@ solving programing question related to interview and DSA
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShwetankShukla01/Programming-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -203,6 +204,7 @@ solving programing question related to interview and DSA
 | [3536-maximum-product-of-two-digits](https://github.com/ShwetankShukla01/Programming-/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShwetankShukla01/Programming-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/ShwetankShukla01/Programming-/tree/master/3870-count-commas-in-range) |
