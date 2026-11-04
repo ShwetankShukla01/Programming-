@@ -50,6 +50,7 @@ solving programing question related to interview and DSA
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ShwetankShukla01/Programming-/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/ShwetankShukla01/Programming-/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShwetankShukla01/Programming-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -89,6 +90,7 @@ solving programing question related to interview and DSA
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/ShwetankShukla01/Programming-/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/ShwetankShukla01/Programming-/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
@@ -238,6 +240,7 @@ solving programing question related to interview and DSA
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -272,6 +275,7 @@ solving programing question related to interview and DSA
 | [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/ShwetankShukla01/Programming-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShwetankShukla01/Programming-/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/ShwetankShukla01/Programming-/tree/master/2126-destroying-asteroids) |
