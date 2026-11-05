@@ -48,6 +48,7 @@ solving programing question related to interview and DSA
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
@@ -82,6 +83,7 @@ solving programing question related to interview and DSA
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -167,6 +169,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -388,6 +391,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ShwetankShukla01/Programming-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
