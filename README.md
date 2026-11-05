@@ -39,6 +39,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@ solving programing question related to interview and DSA
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -183,6 +185,7 @@ solving programing question related to interview and DSA
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
@@ -251,6 +254,7 @@ solving programing question related to interview and DSA
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +275,7 @@ solving programing question related to interview and DSA
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShwetankShukla01/Programming-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -411,6 +416,7 @@ solving programing question related to interview and DSA
 | [1732-find-the-highest-altitude](https://github.com/ShwetankShukla01/Programming-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ShwetankShukla01/Programming-/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -489,4 +495,8 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
