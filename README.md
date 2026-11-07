@@ -114,6 +114,7 @@ solving programing question related to interview and DSA
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShwetankShukla01/Programming-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -150,6 +151,7 @@ solving programing question related to interview and DSA
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/ShwetankShukla01/Programming-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -254,6 +256,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShwetankShukla01/Programming-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
@@ -391,11 +394,13 @@ solving programing question related to interview and DSA
 ## Breadth-First Search
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ShwetankShukla01/Programming-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ShwetankShukla01/Programming-/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -515,4 +520,8 @@ solving programing question related to interview and DSA
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
