@@ -108,6 +108,7 @@ solving programing question related to interview and DSA
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ShwetankShukla01/Programming-/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShwetankShukla01/Programming-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -165,6 +166,7 @@ solving programing question related to interview and DSA
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShwetankShukla01/Programming-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/3483-unique-3-digit-even-numbers) |
