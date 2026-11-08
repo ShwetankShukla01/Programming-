@@ -51,6 +51,7 @@ solving programing question related to interview and DSA
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -88,6 +89,7 @@ solving programing question related to interview and DSA
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
+| [1288-remove-covered-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShwetankShukla01/Programming-/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
