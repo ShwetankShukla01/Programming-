@@ -126,6 +126,7 @@ solving programing question related to interview and DSA
 | [3525-find-x-value-of-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3525-find-x-value-of-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -189,6 +190,7 @@ solving programing question related to interview and DSA
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Segment Tree
@@ -260,6 +262,7 @@ solving programing question related to interview and DSA
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShwetankShukla01/Programming-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
 |  |
@@ -340,6 +343,7 @@ solving programing question related to interview and DSA
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShwetankShukla01/Programming-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/ShwetankShukla01/Programming-/tree/master/3665-twisted-mirror-path-count) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -407,6 +411,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ShwetankShukla01/Programming-/tree/master/3310-remove-methods-from-project) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -530,4 +535,9 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
