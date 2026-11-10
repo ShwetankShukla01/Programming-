@@ -103,6 +103,7 @@ solving programing question related to interview and DSA
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShwetankShukla01/Programming-/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
@@ -203,6 +204,7 @@ solving programing question related to interview and DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -308,6 +310,7 @@ solving programing question related to interview and DSA
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShwetankShukla01/Programming-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -419,6 +422,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShwetankShukla01/Programming-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShwetankShukla01/Programming-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -483,6 +487,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShwetankShukla01/Programming-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShwetankShukla01/Programming-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ShwetankShukla01/Programming-/tree/master/2574-left-and-right-sum-differences) |
