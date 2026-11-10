@@ -183,6 +183,7 @@ solving programing question related to interview and DSA
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ShwetankShukla01/Programming-/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShwetankShukla01/Programming-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3345-smallest-divisible-digit-product-i) |
