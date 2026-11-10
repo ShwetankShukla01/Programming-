@@ -71,6 +71,7 @@ solving programing question related to interview and DSA
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
@@ -152,6 +153,7 @@ solving programing question related to interview and DSA
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/3886-sum-of-sortable-integers) |
@@ -180,6 +182,7 @@ solving programing question related to interview and DSA
 | [3612-process-string-with-special-operations-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ShwetankShukla01/Programming-/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -257,6 +260,7 @@ solving programing question related to interview and DSA
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/ShwetankShukla01/Programming-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -455,6 +459,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShwetankShukla01/Programming-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -472,6 +477,7 @@ solving programing question related to interview and DSA
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShwetankShukla01/Programming-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
