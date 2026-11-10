@@ -65,6 +65,7 @@ solving programing question related to interview and DSA
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShwetankShukla01/Programming-/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -130,6 +131,7 @@ solving programing question related to interview and DSA
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
@@ -199,6 +201,7 @@ solving programing question related to interview and DSA
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -261,6 +264,7 @@ solving programing question related to interview and DSA
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShwetankShukla01/Programming-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShwetankShukla01/Programming-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -333,6 +337,7 @@ solving programing question related to interview and DSA
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3689-maximum-total-subarray-value-i) |
@@ -358,6 +363,7 @@ solving programing question related to interview and DSA
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ShwetankShukla01/Programming-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/ShwetankShukla01/Programming-/tree/master/3665-twisted-mirror-path-count) |
@@ -429,6 +435,7 @@ solving programing question related to interview and DSA
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ShwetankShukla01/Programming-/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ShwetankShukla01/Programming-/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -452,6 +459,7 @@ solving programing question related to interview and DSA
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShwetankShukla01/Programming-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShwetankShukla01/Programming-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
