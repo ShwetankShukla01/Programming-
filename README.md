@@ -245,6 +245,7 @@ solving programing question related to interview and DSA
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/ShwetankShukla01/Programming-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3875-construct-uniform-parity-array-i) |
