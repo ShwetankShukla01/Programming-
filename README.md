@@ -96,6 +96,7 @@ solving programing question related to interview and DSA
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ShwetankShukla01/Programming-/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
