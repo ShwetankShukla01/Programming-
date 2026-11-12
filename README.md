@@ -85,6 +85,7 @@ solving programing question related to interview and DSA
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ShwetankShukla01/Programming-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -165,6 +166,7 @@ solving programing question related to interview and DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -229,6 +231,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
