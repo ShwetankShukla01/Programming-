@@ -235,6 +235,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ShwetankShukla01/Programming-/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
@@ -399,6 +400,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ShwetankShukla01/Programming-/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
