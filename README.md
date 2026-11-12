@@ -10,6 +10,7 @@ solving programing question related to interview and DSA
 | [0014-longest-common-prefix](https://github.com/ShwetankShukla01/Programming-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
@@ -49,6 +50,7 @@ solving programing question related to interview and DSA
 | [0015-3sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShwetankShukla01/Programming-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
@@ -86,6 +88,7 @@ solving programing question related to interview and DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ShwetankShukla01/Programming-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -311,6 +314,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/ShwetankShukla01/Programming-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
