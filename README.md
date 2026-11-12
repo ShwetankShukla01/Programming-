@@ -92,6 +92,7 @@ solving programing question related to interview and DSA
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShwetankShukla01/Programming-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -173,6 +174,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -186,6 +188,7 @@ solving programing question related to interview and DSA
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
