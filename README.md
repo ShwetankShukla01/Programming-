@@ -93,6 +93,7 @@ solving programing question related to interview and DSA
 | [0051-n-queens](https://github.com/ShwetankShukla01/Programming-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -354,6 +355,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShwetankShukla01/Programming-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShwetankShukla01/Programming-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
@@ -378,6 +380,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
