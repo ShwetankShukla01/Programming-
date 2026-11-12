@@ -52,6 +52,7 @@ solving programing question related to interview and DSA
 | [0016-3sum-closest](https://github.com/ShwetankShukla01/Programming-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
@@ -94,6 +95,7 @@ solving programing question related to interview and DSA
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -620,4 +622,8 @@ solving programing question related to interview and DSA
 | ------- |
 | [0051-n-queens](https://github.com/ShwetankShukla01/Programming-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
