@@ -125,6 +125,7 @@ solving programing question related to interview and DSA
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShwetankShukla01/Programming-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/3471-find-the-largest-almost-missing-integer) |
