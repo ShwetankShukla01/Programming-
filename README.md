@@ -42,6 +42,7 @@ solving programing question related to interview and DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -308,6 +309,7 @@ solving programing question related to interview and DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -558,6 +560,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShwetankShukla01/Programming-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShwetankShukla01/Programming-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -617,6 +620,7 @@ solving programing question related to interview and DSA
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Shortest Path
@@ -649,4 +653,8 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShwetankShukla01/Programming-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
