@@ -12,6 +12,7 @@ solving programing question related to interview and DSA
 | [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShwetankShukla01/Programming-/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
@@ -335,6 +336,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShwetankShukla01/Programming-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShwetankShukla01/Programming-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/ShwetankShukla01/Programming-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1331-rank-transform-of-an-array) |
@@ -457,6 +459,7 @@ solving programing question related to interview and DSA
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
