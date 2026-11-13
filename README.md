@@ -507,6 +507,7 @@ solving programing question related to interview and DSA
 | [0015-3sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShwetankShukla01/Programming-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShwetankShukla01/Programming-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ShwetankShukla01/Programming-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -555,6 +556,7 @@ solving programing question related to interview and DSA
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShwetankShukla01/Programming-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShwetankShukla01/Programming-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
