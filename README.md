@@ -113,6 +113,7 @@ solving programing question related to interview and DSA
 | [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ShwetankShukla01/Programming-/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -276,6 +277,7 @@ solving programing question related to interview and DSA
 | [0029-divide-two-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShwetankShukla01/Programming-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ShwetankShukla01/Programming-/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
