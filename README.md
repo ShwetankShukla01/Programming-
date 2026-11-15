@@ -15,6 +15,7 @@ solving programing question related to interview and DSA
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShwetankShukla01/Programming-/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
@@ -114,6 +115,7 @@ solving programing question related to interview and DSA
 | [0063-unique-paths-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShwetankShukla01/Programming-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -220,6 +222,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
