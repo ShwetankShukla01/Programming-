@@ -121,6 +121,7 @@ solving programing question related to interview and DSA
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -270,6 +271,7 @@ solving programing question related to interview and DSA
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShwetankShukla01/Programming-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShwetankShukla01/Programming-/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShwetankShukla01/Programming-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/ShwetankShukla01/Programming-/tree/master/1840-maximum-building-height) |
@@ -409,6 +411,7 @@ solving programing question related to interview and DSA
 | [1406-stone-game-iii](https://github.com/ShwetankShukla01/Programming-/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ShwetankShukla01/Programming-/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/ShwetankShukla01/Programming-/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShwetankShukla01/Programming-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ShwetankShukla01/Programming-/tree/master/1872-stone-game-viii) |
@@ -538,6 +541,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShwetankShukla01/Programming-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShwetankShukla01/Programming-/tree/master/1732-find-the-highest-altitude) |
