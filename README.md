@@ -47,6 +47,7 @@ solving programing question related to interview and DSA
 | [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ShwetankShukla01/Programming-/tree/master/0053-maximum-subarray) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShwetankShukla01/Programming-/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -62,6 +63,7 @@ solving programing question related to interview and DSA
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -112,6 +114,7 @@ solving programing question related to interview and DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -323,6 +326,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShwetankShukla01/Programming-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -332,6 +336,7 @@ solving programing question related to interview and DSA
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/ShwetankShukla01/Programming-/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShwetankShukla01/Programming-/tree/master/1833-maximum-ice-cream-bars) |
@@ -641,6 +646,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Shortest Path
@@ -697,10 +703,12 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
