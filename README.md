@@ -58,6 +58,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
@@ -104,6 +105,7 @@ solving programing question related to interview and DSA
 | [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShwetankShukla01/Programming-/tree/master/0057-insert-interval) |
+| [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
@@ -691,4 +693,16 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
