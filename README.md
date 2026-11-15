@@ -116,6 +116,7 @@ solving programing question related to interview and DSA
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShwetankShukla01/Programming-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -207,6 +208,7 @@ solving programing question related to interview and DSA
 | [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -369,6 +371,7 @@ solving programing question related to interview and DSA
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShwetankShukla01/Programming-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/ShwetankShukla01/Programming-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
