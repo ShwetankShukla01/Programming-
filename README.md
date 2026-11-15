@@ -110,6 +110,7 @@ solving programing question related to interview and DSA
 | [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ShwetankShukla01/Programming-/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -198,6 +199,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -212,6 +214,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
