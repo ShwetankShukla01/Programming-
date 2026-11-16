@@ -27,6 +27,7 @@ solving programing question related to interview and DSA
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/ShwetankShukla01/Programming-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShwetankShukla01/Programming-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ShwetankShukla01/Programming-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShwetankShukla01/Programming-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -229,6 +230,7 @@ solving programing question related to interview and DSA
 | [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1914-cyclically-rotating-a-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3612-process-string-with-special-operations-i) |
