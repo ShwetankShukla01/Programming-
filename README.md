@@ -16,6 +16,7 @@ solving programing question related to interview and DSA
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShwetankShukla01/Programming-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/ShwetankShukla01/Programming-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
@@ -378,6 +379,7 @@ solving programing question related to interview and DSA
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/ShwetankShukla01/Programming-/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/ShwetankShukla01/Programming-/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ShwetankShukla01/Programming-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
@@ -504,6 +506,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShwetankShukla01/Programming-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ShwetankShukla01/Programming-/tree/master/0076-minimum-window-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShwetankShukla01/Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
