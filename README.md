@@ -549,6 +549,7 @@ solving programing question related to interview and DSA
 | [0046-permutations](https://github.com/ShwetankShukla01/Programming-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ShwetankShukla01/Programming-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/ShwetankShukla01/Programming-/tree/master/0077-combinations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
