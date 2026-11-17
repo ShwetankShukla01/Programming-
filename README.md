@@ -17,6 +17,7 @@ solving programing question related to interview and DSA
 | [0058-length-of-last-word](https://github.com/ShwetankShukla01/Programming-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ShwetankShukla01/Programming-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
@@ -122,6 +123,7 @@ solving programing question related to interview and DSA
 | [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ShwetankShukla01/Programming-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -215,6 +217,7 @@ solving programing question related to interview and DSA
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -520,6 +523,7 @@ solving programing question related to interview and DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShwetankShukla01/Programming-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShwetankShukla01/Programming-/tree/master/2685-count-the-number-of-complete-components) |
@@ -553,6 +557,7 @@ solving programing question related to interview and DSA
 | [0052-n-queens-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ShwetankShukla01/Programming-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShwetankShukla01/Programming-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
