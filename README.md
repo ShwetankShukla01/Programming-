@@ -68,6 +68,7 @@ solving programing question related to interview and DSA
 | [0018-4sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ShwetankShukla01/Programming-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShwetankShukla01/Programming-/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShwetankShukla01/Programming-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ solving programing question related to interview and DSA
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShwetankShukla01/Programming-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -592,6 +594,7 @@ solving programing question related to interview and DSA
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ShwetankShukla01/Programming-/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
