@@ -18,6 +18,7 @@ solving programing question related to interview and DSA
 | [0068-text-justification](https://github.com/ShwetankShukla01/Programming-/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ShwetankShukla01/Programming-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
@@ -456,6 +457,7 @@ solving programing question related to interview and DSA
 | [0063-unique-paths-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
