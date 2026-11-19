@@ -584,6 +584,7 @@ solving programing question related to interview and DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShwetankShukla01/Programming-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShwetankShukla01/Programming-/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -636,6 +637,7 @@ solving programing question related to interview and DSA
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShwetankShukla01/Programming-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ShwetankShukla01/Programming-/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShwetankShukla01/Programming-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShwetankShukla01/Programming-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
