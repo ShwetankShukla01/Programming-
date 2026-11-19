@@ -129,6 +129,7 @@ solving programing question related to interview and DSA
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShwetankShukla01/Programming-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -224,6 +225,7 @@ solving programing question related to interview and DSA
 | [0073-set-matrix-zeroes](https://github.com/ShwetankShukla01/Programming-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/ShwetankShukla01/Programming-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ShwetankShukla01/Programming-/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/ShwetankShukla01/Programming-/tree/master/1267-count-servers-that-communicate) |
@@ -453,6 +455,7 @@ solving programing question related to interview and DSA
 | [0055-jump-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ShwetankShukla01/Programming-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ShwetankShukla01/Programming-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShwetankShukla01/Programming-/tree/master/0877-stone-game) |
@@ -658,6 +661,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShwetankShukla01/Programming-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
 | [0856-score-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShwetankShukla01/Programming-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -730,6 +734,7 @@ solving programing question related to interview and DSA
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShwetankShukla01/Programming-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ShwetankShukla01/Programming-/tree/master/0085-maximal-rectangle) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShwetankShukla01/Programming-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
