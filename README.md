@@ -127,6 +127,7 @@ solving programing question related to interview and DSA
 | [0078-subsets](https://github.com/ShwetankShukla01/Programming-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/ShwetankShukla01/Programming-/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -268,6 +269,7 @@ solving programing question related to interview and DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShwetankShukla01/Programming-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShwetankShukla01/Programming-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ShwetankShukla01/Programming-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShwetankShukla01/Programming-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShwetankShukla01/Programming-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShwetankShukla01/Programming-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
