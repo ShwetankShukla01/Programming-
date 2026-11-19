@@ -306,6 +306,7 @@ solving programing question related to interview and DSA
 | [0048-rotate-image](https://github.com/ShwetankShukla01/Programming-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShwetankShukla01/Programming-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShwetankShukla01/Programming-/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/ShwetankShukla01/Programming-/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShwetankShukla01/Programming-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/ShwetankShukla01/Programming-/tree/master/0470-implement-rand10-using-rand7) |
@@ -353,6 +354,7 @@ solving programing question related to interview and DSA
 | ------- |
 | [0029-divide-two-integers](https://github.com/ShwetankShukla01/Programming-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ShwetankShukla01/Programming-/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ShwetankShukla01/Programming-/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/ShwetankShukla01/Programming-/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ShwetankShukla01/Programming-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShwetankShukla01/Programming-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -573,6 +575,7 @@ solving programing question related to interview and DSA
 | [0077-combinations](https://github.com/ShwetankShukla01/Programming-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShwetankShukla01/Programming-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShwetankShukla01/Programming-/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ShwetankShukla01/Programming-/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShwetankShukla01/Programming-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
